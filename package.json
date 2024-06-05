@@ -1,8 +1,15 @@
 {
   "name": "spotify-controls",
+  "author": {
+    "name": "Ruhannn"
+  },
+  "repository": {
+    "url": "https://github.com/Ruhannn/spotify-controls-vscode"
+  },
   "displayName": "Spotify Controls",
   "description": "Control spotify from vscode",
   "version": "0.0.1",
+  "publisher": "Ruhan",
   "engines": {
     "vscode": "^1.89.0"
   },
